@@ -1,6 +1,6 @@
 # frosh
 
-A new Flutter project.
+A Flutter based project for Freshers by FROSH MENTORS
 
 ## Getting Started
 
